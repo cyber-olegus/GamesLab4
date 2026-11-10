@@ -1,0 +1,5 @@
+[
+  {"Name":"Гоблин-разведчик","IconName":"goblin_1.png","BaseLife":80,"LifeModifier":1.1,"BaseGold":7,"GoldModifier":1.05,"SpawnChance":0.55},
+  {"Name":"Скелет-воин","IconName":"skeleton_2.png","BaseLife":160,"LifeModifier":1.18,"BaseGold":18,"GoldModifier":1.1,"SpawnChance":0.3},
+  {"Name":"Тролль","IconName":"troll_1.png","BaseLife":500,"LifeModifier":1.3,"BaseGold":65,"GoldModifier":1.2,"SpawnChance":0.15}
+]
