@@ -1,0 +1,46 @@
+[
+  {
+    "$type": "CNormalEnemyTemplate",
+    "Name": "Гоблин-разведчик",
+    "IconName": "goblin_1.png",
+    "BaseLife": 40,
+    "LifeModifier": 1.04,
+    "BaseGold": 25,
+    "GoldModifier": 1.08,
+    "SpawnChance": 0.25
+  },
+  {
+    "$type": "CArmoredEnemyTemplate",
+    "Name": "Бронированный тролль",
+    "IconName": "troll_1.png",
+    "BaseLife": 45,
+    "LifeModifier": 1.05,
+    "BaseGold": 32,
+    "GoldModifier": 1.08,
+    "SpawnChance": 0.25,
+    "Armor": 3
+  },
+  {
+    "$type": "CHealingEnemyTemplate",
+    "Name": "Скелет-целитель",
+    "IconName": "skeleton_2.png",
+    "BaseLife": 35,
+    "LifeModifier": 1.04,
+    "BaseGold": 30,
+    "GoldModifier": 1.08,
+    "SpawnChance": 0.25,
+    "HealChance": 0.25,
+    "HealAmount": 8
+  },
+  {
+    "$type": "CShieldedEnemyTemplate",
+    "Name": "Гоблин со щитом",
+    "IconName": "goblin_5.png",
+    "BaseLife": 40,
+    "LifeModifier": 1.04,
+    "BaseGold": 30,
+    "GoldModifier": 1.08,
+    "SpawnChance": 0.25,
+    "ShieldHits": 2
+  }
+]
